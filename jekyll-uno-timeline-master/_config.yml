@@ -4,7 +4,7 @@ description: 'First dive in the ocean of Data'
 url: 'https:////kotsagaro.github.io/'
 baseurl: 
 profilepic: 'C:\Users\Kostas\Pictures\Saved Pictures\IMG_0566[36].JPG'
-bkimage: '/images/bk1.jpg'
+bkimage: 
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
